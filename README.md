@@ -4,19 +4,20 @@ You can snipe and buy pumpswap token that created by dev wallet using this bot.
 
 
 ## CONTACT INFO
--Gmail: tom.kinddev@gmail.com
 
--discord:  erikerik116
+Gmail: benjamin.bigdev@gmail.com
 
--telegram: @erikerik116
+Telegram: [@SOLBenjaminCup](https://t.me/SOLBenjaminCup)
 
--twitter: @erikerikerik116
+Discord: [@.benjamincup](https://discord.com/channels/@me/1305610537790476382)
+
+Twitter: @erikerikerik116
 ## GETTING STARTED
 
 1. Clone repository
 
     ```
-    git clone https://github.com/eriksol116/PumpSwap-sniper-RPC-V1.0
+    git clone https://github.com/Benjamin-cup/PumpSwap-sniper-RPC-V1.0
 
     cd PumpSwap-sniper-RPC-V1.0
     ```
